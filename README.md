@@ -48,4 +48,10 @@ Learn how to declare and use variables in Swift.
 var age = 25
 
 ### variables-and-constants
+In Swift, you can declare variables using the `var` keyword. Variables are mutable, meaning their values can be changed after declaration.
+
+```swift
+var age = 25
+var temperature: Double = 22.5
+var name: String = "John"
 
