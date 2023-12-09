@@ -12,3 +12,18 @@ The `for-in` loop in Swift is used to iterate over a sequence, such as a range o
 for item in sequence {
     // Code to execute for each item
 }
+
+The while loop continues to execute a block of code as long as a specified condition is true. Its syntax is as follows:
+while condition {
+    // Code to execute while the condition is true
+}
+
+EXAMPLE
+var count = 0
+
+while count < 5 {
+    print("Current count is \(count)")
+    count += 1
+}
+
+
