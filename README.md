@@ -17,7 +17,7 @@ Welcome to the Swift Tutorial! This guide is designed to introduce you to key as
 
 1. [Introduction to Variables](#introduction-to-variables)
 2. [Control Flow with Loops](#control-flow-with-loops)
-3. [Functions in Swift](#functions-in-swift)
+3. [Functions in Swift](FunctionsInSwift.md)
 4. [Loops](ControlFlowWithLoops.md)
 ---
 
