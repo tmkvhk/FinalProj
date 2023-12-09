@@ -1,7 +1,7 @@
 # Swift Tutorial
 
 ## Author
-John Doe
+TravisKelley
 
 ## Summary
 Welcome to the Swift Tutorial! This guide is designed to introduce you to key aspects of Swift programming, providing hands-on examples and explanations. Whether you're a beginner taking your first steps into Swift or an experienced developer looking to brush up on specific topics, this tutorial has something for everyone.
