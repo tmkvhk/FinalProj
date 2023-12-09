@@ -53,7 +53,7 @@ In Swift, you can declare variables using the `var` keyword. Variables are mutab
 ```swift
 var age = 25
 var temperature: Double = 22.5
-var name: String = "John"
+var name: String = "John"```
 
 ### Navigation
 - [Back to Introduction](#introduction)
