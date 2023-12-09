@@ -55,3 +55,5 @@ var age = 25
 var temperature: Double = 22.5
 var name: String = "John"
 
+## Data Types
+
