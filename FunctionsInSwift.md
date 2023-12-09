@@ -1,4 +1,5 @@
 # Swift Functions Tutorial
+[Home](README.md)
 
 ## Writing Functions in Swift
 
