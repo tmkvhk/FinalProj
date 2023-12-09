@@ -19,3 +19,13 @@ func greet() {
 // Call the function
 greet()
 
+Function with Parameters
+Functions can also take parameters to receive input values. Let's create a function that greets a specific person.
+func greet(name: String) {
+    print("Hello, \(name)!")
+}
+
+// Call the function with an argument
+greet(name: "Alice")
+****
+
