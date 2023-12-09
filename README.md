@@ -55,5 +55,20 @@ var age = 25
 var temperature: Double = 22.5
 var name: String = "John"
 
+### Navigation
+- [Back to Introduction](#introduction)
+- [Next: Data Types](#data-types)
+
+---
+
 ## Data Types
+
+### Fundamental Data Types
+Understand Swift's fundamental data types, such as Int, Double, String, and Bool.
+
+```swift
+var count: Int = 10
+var price: Double = 5.99
+var name: String = "Swift Data"
+
 
